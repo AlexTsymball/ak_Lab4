@@ -1,0 +1,4 @@
+/home/sasha/file/ninja/CMakeFiles/rebuild_cache.dir
+/home/sasha/file/ninja/CMakeFiles/func.dir
+/home/sasha/file/ninja/CMakeFiles/edit_cache.dir
+/home/sasha/file/ninja/CMakeFiles/main.dir
